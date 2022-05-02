@@ -9,5 +9,6 @@ const app = new Vue ({
 
   data: {
     messaggio: "Ciao!",
+    immagine: 'images/emme-rise.gif'
   }
 })
